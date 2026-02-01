@@ -10,7 +10,7 @@ This project showcases my ability to take raw, messy data and transform it into 
 
 ## 📊 Dashboard Preview
 
-![Netflix Analysis Dashboard](/images/dashboard_overview.png)
+![Netflix Analysis Dashboard](../images/dashboard_overview.png)
 
 *Interactive Power BI dashboard featuring key metrics: 100min average duration, 5,655 movies, 2,627 TV shows, and 8,275 total content pieces. Includes geographic distribution across top 5 countries and yearly content addition trends from 2008-2021.*
 
